@@ -2,6 +2,8 @@
 
 ```mermaid
 
+flowchart LR
+
 EG_Logon_Simulator ——> miam-vmhost.beaconcu.org -—> host
 BCNPROD-NEW ——> ucs-exp-host6.beaconcu.org -—> UCS-Prod-Linux
 BCNREPORT-NEW ——> ucs-exp-host6.beaconcu.org -—> UCS-Prod-Linux
