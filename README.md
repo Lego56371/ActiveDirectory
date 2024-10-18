@@ -1,6 +1,6 @@
 # ActiveDirectory
 
-``` mermaid
+```mermaid
 
 flowchart LR
 
